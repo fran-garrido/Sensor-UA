@@ -206,6 +206,7 @@ std::thread serverThread([&]() {
     std::cout << "=== " << APP_NAME << " v" << APP_VERSION << " ===\n";
     std::cout << "by " << APP_AUTHOR << " - " << APP_COMPANY << "\n";
     std::cout << APP_DESCRIPTION << "\n\n";
+    std::cout << "Source Code: " << AAP_REPO_URL << "\n\n";
     std::cout << "URL: opc.tcp://localhost:" << port << "\n";
     std::cout << "Update: every 50ms (100% RANDOM ±20%)\n";
     std::cout << "Press Ctrl+C to stop.\n\n";

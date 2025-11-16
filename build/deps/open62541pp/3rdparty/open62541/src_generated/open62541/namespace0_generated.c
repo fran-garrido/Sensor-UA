@@ -3932,20 +3932,20 @@ UA_NODEID_NUMERIC(ns[0], 0LU),
 UA_QUALIFIEDNAME(ns[0], "Optional"),
 UA_NODEID_NUMERIC(ns[0], 77LU),
 (const UA_NodeAttributes*)&attr, &UA_TYPES[UA_TYPES_OBJECTATTRIBUTES],NULL, NULL);
-retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 80LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 3190LU), false);
-retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 80LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 11551LU), false);
-retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 80LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 11565LU), false);
-retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 80LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 11572LU), false);
-retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 80LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2366LU), false);
-retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 80LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2371LU), false);
+retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 80LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 11573LU), false);
 retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 80LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 11570LU), false);
 retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 80LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 11574LU), false);
 retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 80LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 11567LU), false);
-retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 80LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2370LU), false);
 retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 80LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 11569LU), false);
+retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 80LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2370LU), false);
+retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 80LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2366LU), false);
+retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 80LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 11565LU), false);
+retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 80LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2371LU), false);
 retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 80LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 11571LU), false);
+retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 80LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 3190LU), false);
+retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 80LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 11572LU), false);
 retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 80LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2367LU), false);
-retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 80LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 11573LU), false);
+retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 80LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 11551LU), false);
 return retVal;
 }
 
@@ -4002,24 +4002,24 @@ UA_NODEID_NUMERIC(ns[0], 0LU),
 UA_QUALIFIEDNAME(ns[0], "Mandatory"),
 UA_NODEID_NUMERIC(ns[0], 77LU),
 (const UA_NodeAttributes*)&attr, &UA_TYPES[UA_TYPES_OBJECTATTRIBUTES],NULL, NULL);
-retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2375LU), false);
-retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2374LU), false);
-retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2045LU), false);
-retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2369LU), false);
-retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2044LU), false);
-retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 11241LU), false);
 retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 12169LU), false);
-retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2047LU), false);
-retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 7611LU), false);
-retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2050LU), false);
-retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2042LU), false);
-retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 12078LU), false);
-retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2051LU), false);
+retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2374LU), false);
 retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2377LU), false);
+retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 11241LU), false);
+retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2369LU), false);
 retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2011LU), false);
-retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 11461LU), false);
-retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2046LU), false);
+retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2050LU), false);
 retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2035LU), false);
+retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 11461LU), false);
+retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2047LU), false);
+retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2044LU), false);
+retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 12078LU), false);
+retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2046LU), false);
+retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2051LU), false);
+retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2042LU), false);
+retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2045LU), false);
+retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2375LU), false);
+retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 7611LU), false);
 retVal |= UA_Server_addReference(server, UA_NODEID_NUMERIC(ns[0], 78LU), UA_NODEID_NUMERIC(ns[0], 37LU), UA_EXPANDEDNODEID_NUMERIC(ns[0], 2043LU), false);
 return retVal;
 }

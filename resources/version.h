@@ -6,6 +6,7 @@
 #define APP_COMPANY      "CIP Virgen del Camino"
 #define APP_YEAR         "2025"
 #define APP_DESCRIPTION  "Servidor OPC UA de simulación de sensores industriales"
+#define AAP_REPO_URL   "https://github.com/fran-garrido/Sensor-UA"
 
 #define STR(x) #x
 #define XSTR(x) STR(x)
