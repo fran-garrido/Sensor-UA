@@ -1,0 +1,655 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.2.0-rc3/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.2.0-rc3/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.2.0-rc3/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows-windres.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows-GNU-CXX-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Internal/CMakeCXXLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Linker/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Linker/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Linker/Windows-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Linker/Windows-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Linker/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CPack.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CPackComponent.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Templates/CPackConfig.cmake.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Templates/CPackConfig.cmake.in"
+		},
+		{
+			"path" : "deps/open62541pp/CMakeLists.txt"
+		},
+		{
+			"path" : "deps/open62541pp/cmake/Sanitizers.cmake"
+		},
+		{
+			"path" : "deps/open62541pp/cmake/StaticAnalyzers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/config.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"path" : "deps/open62541pp/include/open62541pp/deprecated.hpp.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"path" : "deps/open62541pp/cmake/open62541ppConfig.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/BasicConfigVersion-SameMinorVersion.cmake.in"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.2.0-rc3/CMakeCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows-GNU-C-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Internal/CMakeCLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Linker/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Linker/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Linker/Windows-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Linker/Windows-GNU.cmake"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/tools/cmake/FindPython3.cmake"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/tools/cmake/FindPython/Support.cmake"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/tools/cmake/CMakeFindFrameworks.cmake"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/tools/cmake/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/tools/cmake/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/FindGit.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/tools/cmake/AssignSourceGroup.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/tools/cmake/macros_internal.cmake"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/tools/cmake/macros_public.cmake"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/tools/cmake/SetGitBasedVersion.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/FindGit.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/tools/cmake/linting_build.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CheckCCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Internal/CheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Internal/CheckFlagCommonConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/include/open62541/config.h.in"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/tools/open62541.pc.in"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/tools/cmake/linting_target.cmake"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/tools/cmake/FindClangTools.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/tools/cmake/open62541Config.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/tools/cmake/macros_public.cmake"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/arch/CMakeLists.txt"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/arch/posix/CMakeLists.txt"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/arch/win32/CMakeLists.txt"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/arch/freertosLWIP/CMakeLists.txt"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/arch/vxworks/CMakeLists.txt"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/arch/eCos/CMakeLists.txt"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/arch/wec7/CMakeLists.txt"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/doc/CMakeLists.txt"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/tools/cmake/FindSphinx.cmake"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/tools/cmake/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/tools/cmake/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/FindLATEX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/doc/conf.py"
+		},
+		{
+			"path" : "deps/open62541pp/3rdparty/open62541/tools/packaging/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CPack.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Modules/CPackComponent.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Templates/CPackConfig.cmake.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.2/Templates/CPackConfig.cmake.in"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build",
+		"source" : "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

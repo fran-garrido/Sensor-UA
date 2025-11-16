@@ -1,0 +1,55 @@
+{
+	"abstract" : true,
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"find_package"
+		],
+		"files" : 
+		[
+			"C:/Program Files/CMake/share/cmake-4.2/Modules/FindThreads.cmake",
+			"deps/open62541pp/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 68,
+				"parent" : 0
+			},
+			{
+				"file" : 0,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 292,
+				"parent" : 2
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"id" : "Threads::Threads::@e1d353c40e795a1e7b4c",
+	"imported" : true,
+	"local" : true,
+	"name" : "Threads::Threads",
+	"paths" : 
+	{
+		"build" : "deps/open62541pp",
+		"source" : "deps/open62541pp"
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

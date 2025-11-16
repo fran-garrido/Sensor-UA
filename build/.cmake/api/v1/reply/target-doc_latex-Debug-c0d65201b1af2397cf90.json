@@ -1,0 +1,334 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"deps/open62541pp/3rdparty/open62541/doc/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 72,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 76,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "open62541::@3dab28c1c6b26473d758"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "open62541/doc"
+	},
+	"id" : "doc_latex::@96a5fb880752030ad431",
+	"name" : "doc_latex",
+	"orderDependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "open62541::@3dab28c1c6b26473d758"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "deps/open62541pp/3rdparty/open62541/doc",
+		"source" : "deps/open62541pp/3rdparty/open62541/doc"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc/CMakeFiles/doc_latex",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc/CMakeFiles/doc_latex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/client.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/client_highlevel.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/client_highlevel_async.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/client_subscriptions.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/common.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/nodestore.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/plugin_accesscontrol.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/plugin_log.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/plugin_network.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/plugin_pubsub_connection.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/pubsub.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/pubsub_TSN_loopback.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/pubsub_TSN_publisher.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/pubsub_nodeset_rt_publisher.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/pubsub_nodeset_rt_subscriber.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/server.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/services.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/statuscodes.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/tutorial_client_firststeps.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/tutorial_datatypes.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/tutorial_pubsub_publish.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/tutorial_pubsub_subscribe.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/tutorial_server_alarms_conditions.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/tutorial_server_datasource.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/tutorial_server_events.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/tutorial_server_firststeps.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/tutorial_server_method.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/tutorial_server_monitoreditems.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/tutorial_server_object.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/tutorial_server_variable.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/tutorial_server_variabletype.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/types.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/types_generated.rst.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc_src/util.rst.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

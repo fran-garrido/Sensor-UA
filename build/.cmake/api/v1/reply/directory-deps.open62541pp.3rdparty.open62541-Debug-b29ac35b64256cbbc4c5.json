@@ -1,0 +1,689 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"deps/open62541pp/3rdparty/open62541/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1638,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1667,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1680,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1704,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1712,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1754,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1754,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1754,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1756,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libopen62541.a"
+			],
+			"targetId" : "open62541::@3dab28c1c6b26473d758",
+			"targetIndex" : 6,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/open62541",
+			"exportName" : "open62541Targets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "open62541::@3dab28c1c6b26473d758",
+					"index" : 6
+				}
+			],
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/CMakeFiles/Export/8cb9d92d46a89e68bf96c40f4a60fffd/open62541Targets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/open62541",
+			"paths" : 
+			[
+				"build/deps/open62541pp/3rdparty/open62541/open62541Config.cmake",
+				"build/deps/open62541pp/3rdparty/open62541/open62541ConfigVersion.cmake",
+				"build/deps/open62541pp/3rdparty/open62541/open62541Macros.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "share/open62541/tools",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/tools/certs",
+				"deps/open62541pp/3rdparty/open62541/tools/nodeset_compiler",
+				"deps/open62541pp/3rdparty/open62541/tools/schema",
+				"deps/open62541pp/3rdparty/open62541/deps/ua-nodeset"
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "share/open62541/tools",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/tools/generate_datatypes.py",
+				"deps/open62541pp/3rdparty/open62541/tools/generate_nodeid_header.py",
+				"deps/open62541pp/3rdparty/open62541/tools/generate_statuscode_descriptions.py"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "include/open62541",
+			"paths" : 
+			[
+				"build/deps/open62541pp/3rdparty/open62541/src_generated/open62541/config.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/deps/ms_stdint.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "include/open62541",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/include/open62541/architecture_definitions.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "include/open62541/win32",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/arch/win32/ua_architecture.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "include/open62541",
+			"paths" : 
+			[
+				"build/deps/open62541pp/3rdparty/open62541/src_generated/open62541/statuscodes.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "include/open62541",
+			"paths" : 
+			[
+				"build/deps/open62541pp/3rdparty/open62541/src_generated/open62541/nodeids.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"destination" : "include/open62541",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/include/open62541/common.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"destination" : "include/open62541",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/include/open62541/types.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "Unspecified",
+			"destination" : "include/open62541",
+			"paths" : 
+			[
+				"build/deps/open62541pp/3rdparty/open62541/src_generated/open62541/types_generated.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"destination" : "include/open62541",
+			"paths" : 
+			[
+				"build/deps/open62541pp/3rdparty/open62541/src_generated/open62541/types_generated_handling.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Unspecified",
+			"destination" : "include/open62541",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/include/open62541/util.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"destination" : "include/open62541/plugin",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/include/open62541/plugin/log.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 18,
+			"component" : "Unspecified",
+			"destination" : "include/open62541/plugin",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/include/open62541/plugin/network.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "Unspecified",
+			"destination" : "include/open62541/plugin",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/include/open62541/plugin/accesscontrol.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 20,
+			"component" : "Unspecified",
+			"destination" : "include/open62541/plugin",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/include/open62541/plugin/pki.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 21,
+			"component" : "Unspecified",
+			"destination" : "include/open62541/plugin",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/include/open62541/plugin/securitypolicy.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 22,
+			"component" : "Unspecified",
+			"destination" : "include/open62541/plugin",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/include/open62541/plugin/pubsub.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 23,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/deps/ziptree.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 24,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/deps/aa_tree.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 25,
+			"component" : "Unspecified",
+			"destination" : "include/open62541/plugin",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/include/open62541/plugin/nodestore.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 26,
+			"component" : "Unspecified",
+			"destination" : "include/open62541",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/include/open62541/server_pubsub.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 27,
+			"component" : "Unspecified",
+			"destination" : "include/open62541",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/include/open62541/server.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 28,
+			"component" : "Unspecified",
+			"destination" : "include/open62541",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/include/open62541/client.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 29,
+			"component" : "Unspecified",
+			"destination" : "include/open62541",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/include/open62541/client_highlevel.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 30,
+			"component" : "Unspecified",
+			"destination" : "include/open62541",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/include/open62541/client_subscriptions.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 31,
+			"component" : "Unspecified",
+			"destination" : "include/open62541",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/include/open62541/client_highlevel_async.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 32,
+			"component" : "Unspecified",
+			"destination" : "include/open62541/plugin",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/plugins/include/open62541/plugin/accesscontrol_default.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 33,
+			"component" : "Unspecified",
+			"destination" : "include/open62541/plugin",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/plugins/include/open62541/plugin/pki_default.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 34,
+			"component" : "Unspecified",
+			"destination" : "include/open62541/plugin",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/plugins/include/open62541/plugin/log_stdout.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 35,
+			"component" : "Unspecified",
+			"destination" : "include/open62541/plugin",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/plugins/include/open62541/plugin/nodestore_default.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 36,
+			"component" : "Unspecified",
+			"destination" : "include/open62541",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/plugins/include/open62541/server_config_default.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 37,
+			"component" : "Unspecified",
+			"destination" : "include/open62541",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/plugins/include/open62541/client_config_default.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 38,
+			"component" : "Unspecified",
+			"destination" : "include/open62541/plugin",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/plugins/include/open62541/plugin/securitypolicy_default.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 39,
+			"component" : "Unspecified",
+			"destination" : "include/open62541",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/include/open62541/network_tcp.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 40,
+			"component" : "Unspecified",
+			"destination" : "include/open62541",
+			"paths" : 
+			[
+				"deps/open62541pp/3rdparty/open62541/include/open62541/architecture_functions.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "deps/open62541pp/3rdparty/open62541",
+		"source" : "deps/open62541pp/3rdparty/open62541"
+	}
+}

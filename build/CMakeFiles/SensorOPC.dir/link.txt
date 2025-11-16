@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\SensorOPC.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\SensorOPC.dir/objects.a @CMakeFiles\SensorOPC.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -static-libgcc -static-libstdc++ -static -lpthread -static -Wl,--whole-archive CMakeFiles\SensorOPC.dir/objects.a -Wl,--no-whole-archive -o "Sensor OPC.exe" -Wl,--out-implib,"libSensor OPC.dll.a" -Wl,--major-image-version,1,--minor-image-version,0 @CMakeFiles\SensorOPC.dir\linkLibs.rsp

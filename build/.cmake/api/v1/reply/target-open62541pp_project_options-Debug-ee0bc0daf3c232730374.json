@@ -1,0 +1,41 @@
+{
+	"abstract" : true,
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library"
+		],
+		"files" : 
+		[
+			"deps/open62541pp/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 28,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"id" : "open62541pp_project_options::@e1d353c40e795a1e7b4c",
+	"name" : "open62541pp_project_options",
+	"paths" : 
+	{
+		"build" : "deps/open62541pp",
+		"source" : "deps/open62541pp"
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

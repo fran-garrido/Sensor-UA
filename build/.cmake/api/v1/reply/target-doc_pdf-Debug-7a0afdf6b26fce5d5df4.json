@@ -1,0 +1,96 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"deps/open62541pp/3rdparty/open62541/doc/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 78,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 84,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "doc_latex::@96a5fb880752030ad431"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "open62541/doc"
+	},
+	"id" : "doc_pdf::@96a5fb880752030ad431",
+	"name" : "doc_pdf",
+	"orderDependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "doc_latex::@96a5fb880752030ad431"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "deps/open62541pp/3rdparty/open62541/doc",
+		"source" : "deps/open62541pp/3rdparty/open62541/doc"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc/CMakeFiles/doc_pdf",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/doc/CMakeFiles/doc_pdf.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

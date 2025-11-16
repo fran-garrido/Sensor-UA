@@ -1,0 +1,86 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"ua_generate_nodeid_header"
+		],
+		"files" : 
+		[
+			"deps/open62541pp/3rdparty/open62541/tools/cmake/macros_public.cmake",
+			"deps/open62541pp/3rdparty/open62541/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 1302,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 45,
+				"parent" : 1
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"id" : "open62541-generator-ids-ns0::@3dab28c1c6b26473d758",
+	"name" : "open62541-generator-ids-ns0",
+	"paths" : 
+	{
+		"build" : "deps/open62541pp/3rdparty/open62541",
+		"source" : "deps/open62541pp/3rdparty/open62541"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-generator-ids-ns0",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-generator-ids-ns0.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/src_generated/open62541/nodeids.h.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

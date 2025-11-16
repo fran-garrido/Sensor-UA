@@ -1,0 +1,530 @@
+[
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUA_ARCHITECTURE_WIN32 @CMakeFiles/SensorOPC.dir/includes_CXX.rsp -g -o CMakeFiles\\SensorOPC.dir\\src\\main.cpp.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\src\\main.cpp",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/src/main.cpp",
+  "output": "CMakeFiles/SensorOPC.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUA_ARCHITECTURE_WIN32 @CMakeFiles/open62541pp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wpedantic -o CMakeFiles\\open62541pp.dir\\src\\client.cpp.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\src\\client.cpp",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/src/client.cpp",
+  "output": "deps/open62541pp/CMakeFiles/open62541pp.dir/src/client.cpp.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUA_ARCHITECTURE_WIN32 @CMakeFiles/open62541pp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wpedantic -o CMakeFiles\\open62541pp.dir\\src\\datatype.cpp.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\src\\datatype.cpp",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/src/datatype.cpp",
+  "output": "deps/open62541pp/CMakeFiles/open62541pp.dir/src/datatype.cpp.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUA_ARCHITECTURE_WIN32 @CMakeFiles/open62541pp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wpedantic -o CMakeFiles\\open62541pp.dir\\src\\event.cpp.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\src\\event.cpp",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/src/event.cpp",
+  "output": "deps/open62541pp/CMakeFiles/open62541pp.dir/src/event.cpp.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUA_ARCHITECTURE_WIN32 @CMakeFiles/open62541pp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wpedantic -o CMakeFiles\\open62541pp.dir\\src\\monitoreditem.cpp.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\src\\monitoreditem.cpp",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/src/monitoreditem.cpp",
+  "output": "deps/open62541pp/CMakeFiles/open62541pp.dir/src/monitoreditem.cpp.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUA_ARCHITECTURE_WIN32 @CMakeFiles/open62541pp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wpedantic -o CMakeFiles\\open62541pp.dir\\src\\node.cpp.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\src\\node.cpp",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/src/node.cpp",
+  "output": "deps/open62541pp/CMakeFiles/open62541pp.dir/src/node.cpp.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUA_ARCHITECTURE_WIN32 @CMakeFiles/open62541pp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wpedantic -o CMakeFiles\\open62541pp.dir\\src\\plugin\\accesscontrol.cpp.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\src\\plugin\\accesscontrol.cpp",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/src/plugin/accesscontrol.cpp",
+  "output": "deps/open62541pp/CMakeFiles/open62541pp.dir/src/plugin/accesscontrol.cpp.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUA_ARCHITECTURE_WIN32 @CMakeFiles/open62541pp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wpedantic -o CMakeFiles\\open62541pp.dir\\src\\plugin\\accesscontrol_default.cpp.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\src\\plugin\\accesscontrol_default.cpp",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/src/plugin/accesscontrol_default.cpp",
+  "output": "deps/open62541pp/CMakeFiles/open62541pp.dir/src/plugin/accesscontrol_default.cpp.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUA_ARCHITECTURE_WIN32 @CMakeFiles/open62541pp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wpedantic -o CMakeFiles\\open62541pp.dir\\src\\plugin\\create_certificate.cpp.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\src\\plugin\\create_certificate.cpp",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/src/plugin/create_certificate.cpp",
+  "output": "deps/open62541pp/CMakeFiles/open62541pp.dir/src/plugin/create_certificate.cpp.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUA_ARCHITECTURE_WIN32 @CMakeFiles/open62541pp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wpedantic -o CMakeFiles\\open62541pp.dir\\src\\plugin\\log.cpp.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\src\\plugin\\log.cpp",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/src/plugin/log.cpp",
+  "output": "deps/open62541pp/CMakeFiles/open62541pp.dir/src/plugin/log.cpp.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUA_ARCHITECTURE_WIN32 @CMakeFiles/open62541pp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wpedantic -o CMakeFiles\\open62541pp.dir\\src\\server.cpp.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\src\\server.cpp",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/src/server.cpp",
+  "output": "deps/open62541pp/CMakeFiles/open62541pp.dir/src/server.cpp.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUA_ARCHITECTURE_WIN32 @CMakeFiles/open62541pp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wpedantic -o CMakeFiles\\open62541pp.dir\\src\\services_attribute.cpp.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\src\\services_attribute.cpp",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/src/services_attribute.cpp",
+  "output": "deps/open62541pp/CMakeFiles/open62541pp.dir/src/services_attribute.cpp.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUA_ARCHITECTURE_WIN32 @CMakeFiles/open62541pp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wpedantic -o CMakeFiles\\open62541pp.dir\\src\\services_method.cpp.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\src\\services_method.cpp",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/src/services_method.cpp",
+  "output": "deps/open62541pp/CMakeFiles/open62541pp.dir/src/services_method.cpp.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUA_ARCHITECTURE_WIN32 @CMakeFiles/open62541pp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wpedantic -o CMakeFiles\\open62541pp.dir\\src\\services_monitoreditem.cpp.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\src\\services_monitoreditem.cpp",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/src/services_monitoreditem.cpp",
+  "output": "deps/open62541pp/CMakeFiles/open62541pp.dir/src/services_monitoreditem.cpp.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUA_ARCHITECTURE_WIN32 @CMakeFiles/open62541pp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wpedantic -o CMakeFiles\\open62541pp.dir\\src\\services_nodemanagement.cpp.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\src\\services_nodemanagement.cpp",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/src/services_nodemanagement.cpp",
+  "output": "deps/open62541pp/CMakeFiles/open62541pp.dir/src/services_nodemanagement.cpp.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUA_ARCHITECTURE_WIN32 @CMakeFiles/open62541pp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wpedantic -o CMakeFiles\\open62541pp.dir\\src\\services_subscription.cpp.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\src\\services_subscription.cpp",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/src/services_subscription.cpp",
+  "output": "deps/open62541pp/CMakeFiles/open62541pp.dir/src/services_subscription.cpp.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUA_ARCHITECTURE_WIN32 @CMakeFiles/open62541pp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wpedantic -o CMakeFiles\\open62541pp.dir\\src\\services_view.cpp.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\src\\services_view.cpp",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/src/services_view.cpp",
+  "output": "deps/open62541pp/CMakeFiles/open62541pp.dir/src/services_view.cpp.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUA_ARCHITECTURE_WIN32 @CMakeFiles/open62541pp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wpedantic -o CMakeFiles\\open62541pp.dir\\src\\session.cpp.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\src\\session.cpp",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/src/session.cpp",
+  "output": "deps/open62541pp/CMakeFiles/open62541pp.dir/src/session.cpp.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUA_ARCHITECTURE_WIN32 @CMakeFiles/open62541pp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wpedantic -o CMakeFiles\\open62541pp.dir\\src\\string_utils.cpp.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\src\\string_utils.cpp",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/src/string_utils.cpp",
+  "output": "deps/open62541pp/CMakeFiles/open62541pp.dir/src/string_utils.cpp.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUA_ARCHITECTURE_WIN32 @CMakeFiles/open62541pp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wpedantic -o CMakeFiles\\open62541pp.dir\\src\\subscription.cpp.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\src\\subscription.cpp",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/src/subscription.cpp",
+  "output": "deps/open62541pp/CMakeFiles/open62541pp.dir/src/subscription.cpp.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUA_ARCHITECTURE_WIN32 @CMakeFiles/open62541pp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wpedantic -o CMakeFiles\\open62541pp.dir\\src\\types_builtin.cpp.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\src\\types_builtin.cpp",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/src/types_builtin.cpp",
+  "output": "deps/open62541pp/CMakeFiles/open62541pp.dir/src/types_builtin.cpp.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUA_ARCHITECTURE_WIN32 @CMakeFiles/open62541pp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wpedantic -o CMakeFiles\\open62541pp.dir\\src\\types_composed.cpp.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\src\\types_composed.cpp",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/src/types_composed.cpp",
+  "output": "deps/open62541pp/CMakeFiles/open62541pp.dir/src/types_composed.cpp.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\ua_types.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\ua_types.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/ua_types.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/ua_types.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\ua_types_encoding_binary.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\ua_types_encoding_binary.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/ua_types_encoding_binary.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/ua_types_encoding_binary.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\ua_types_print.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\ua_types_print.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/ua_types_print.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/ua_types_print.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src_generated\\open62541\\types_generated.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\build\\deps\\open62541pp\\3rdparty\\open62541\\src_generated\\open62541\\types_generated.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541/src_generated/open62541/types_generated.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src_generated/open62541/types_generated.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src_generated\\open62541\\transport_generated.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\build\\deps\\open62541pp\\3rdparty\\open62541\\src_generated\\open62541\\transport_generated.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541/src_generated/open62541/transport_generated.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src_generated/open62541/transport_generated.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src_generated\\open62541\\statuscodes.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\build\\deps\\open62541pp\\3rdparty\\open62541\\src_generated\\open62541\\statuscodes.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541/src_generated/open62541/statuscodes.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src_generated/open62541/statuscodes.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\ua_util.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\ua_util.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/ua_util.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/ua_util.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\ua_timer.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\ua_timer.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/ua_timer.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/ua_timer.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\ua_connection.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\ua_connection.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/ua_connection.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/ua_connection.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\ua_securechannel.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\ua_securechannel.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/ua_securechannel.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/ua_securechannel.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\ua_securechannel_crypto.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\ua_securechannel_crypto.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/ua_securechannel_crypto.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/ua_securechannel_crypto.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_session.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_session.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_session.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_session.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_nodes.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_nodes.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_nodes.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_nodes.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_server.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_server.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_server.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_server.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_server_ns0.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_server_ns0.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_server_ns0.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_server_ns0.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_server_ns0_diagnostics.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_server_ns0_diagnostics.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_server_ns0_diagnostics.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_server_ns0_diagnostics.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_server_config.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_server_config.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_server_config.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_server_config.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_server_binary.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_server_binary.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_server_binary.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_server_binary.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_server_utils.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_server_utils.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_server_utils.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_server_utils.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_server_discovery.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_server_discovery.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_server_discovery.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_server_discovery.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_server_async.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_server_async.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_server_async.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_server_async.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\pubsub\\ua_pubsub_networkmessage.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\pubsub\\ua_pubsub_networkmessage.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/pubsub/ua_pubsub_networkmessage.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/pubsub/ua_pubsub_networkmessage.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\pubsub\\ua_pubsub_writer.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\pubsub\\ua_pubsub_writer.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/pubsub/ua_pubsub_writer.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/pubsub/ua_pubsub_writer.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\pubsub\\ua_pubsub_writergroup.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\pubsub\\ua_pubsub_writergroup.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/pubsub/ua_pubsub_writergroup.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/pubsub/ua_pubsub_writergroup.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\pubsub\\ua_pubsub_reader.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\pubsub\\ua_pubsub_reader.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/pubsub/ua_pubsub_reader.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/pubsub/ua_pubsub_reader.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\pubsub\\ua_pubsub_readergroup.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\pubsub\\ua_pubsub_readergroup.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/pubsub/ua_pubsub_readergroup.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/pubsub/ua_pubsub_readergroup.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\pubsub\\ua_pubsub_manager.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\pubsub\\ua_pubsub_manager.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/pubsub/ua_pubsub_manager.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/pubsub/ua_pubsub_manager.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\pubsub\\ua_pubsub_ns0.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\pubsub\\ua_pubsub_ns0.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/pubsub/ua_pubsub_ns0.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/pubsub/ua_pubsub_ns0.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_services_view.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_services_view.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_services_view.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_services_view.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_services_method.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_services_method.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_services_method.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_services_method.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_services_session.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_services_session.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_services_session.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_services_session.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_services_attribute.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_services_attribute.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_services_attribute.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_services_attribute.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_services_discovery.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_services_discovery.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_services_discovery.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_services_discovery.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_services_subscription.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_services_subscription.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_services_subscription.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_services_subscription.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_services_monitoreditem.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_services_monitoreditem.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_services_monitoreditem.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_services_monitoreditem.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_services_securechannel.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_services_securechannel.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_services_securechannel.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_services_securechannel.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_services_nodemanagement.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_services_nodemanagement.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_services_nodemanagement.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_services_nodemanagement.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_services_discovery_multicast.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_services_discovery_multicast.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_services_discovery_multicast.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_services_discovery_multicast.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\client\\ua_client.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\client\\ua_client.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/client/ua_client.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/client/ua_client.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\client\\ua_client_connect.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\client\\ua_client_connect.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/client/ua_client_connect.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/client/ua_client_connect.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\client\\ua_client_discovery.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\client\\ua_client_discovery.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/client/ua_client_discovery.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/client/ua_client_discovery.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\client\\ua_client_highlevel.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\client\\ua_client_highlevel.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/client/ua_client_highlevel.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/client/ua_client_highlevel.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\client\\ua_client_subscriptions.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\client\\ua_client_subscriptions.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/client/ua_client_subscriptions.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/client/ua_client_subscriptions.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\deps\\libc_time.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\deps\\libc_time.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/deps/libc_time.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/deps/libc_time.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\deps\\pcg_basic.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\deps\\pcg_basic.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/deps/pcg_basic.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/deps/pcg_basic.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\deps\\base64.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\deps\\base64.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/deps/base64.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/deps/base64.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\deps\\aa_tree.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\deps\\aa_tree.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/deps/aa_tree.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/deps/aa_tree.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\deps\\ziptree.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\deps\\ziptree.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/deps/ziptree.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/deps/ziptree.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\pubsub\\ua_pubsub_config.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\pubsub\\ua_pubsub_config.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/pubsub/ua_pubsub_config.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/pubsub/ua_pubsub_config.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src_generated\\open62541\\namespace0_generated.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\build\\deps\\open62541pp\\3rdparty\\open62541\\src_generated\\open62541\\namespace0_generated.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541/src_generated/open62541/namespace0_generated.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src_generated/open62541/namespace0_generated.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\ua_types_lex.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\ua_types_lex.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/ua_types_lex.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/ua_types_lex.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_subscription.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_subscription.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_subscription.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_subscription.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_subscription_monitoreditem.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_subscription_monitoreditem.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_subscription_monitoreditem.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_subscription_monitoreditem.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_subscription_datachange.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_subscription_datachange.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_subscription_datachange.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_subscription_datachange.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_subscription_events.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_subscription_events.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_subscription_events.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_subscription_events.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-object.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-object.dir\\src\\server\\ua_subscription_events_filter.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\src\\server\\ua_subscription_events_filter.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/src/server/ua_subscription_events_filter.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-object.dir/src/server/ua_subscription_events_filter.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-plugins.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-plugins.dir\\plugins\\ua_log_stdout.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\plugins\\ua_log_stdout.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/plugins/ua_log_stdout.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-plugins.dir/plugins/ua_log_stdout.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-plugins.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-plugins.dir\\plugins\\ua_accesscontrol_default.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\plugins\\ua_accesscontrol_default.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/plugins/ua_accesscontrol_default.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-plugins.dir/plugins/ua_accesscontrol_default.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-plugins.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-plugins.dir\\plugins\\ua_nodestore_ziptree.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\plugins\\ua_nodestore_ziptree.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/plugins/ua_nodestore_ziptree.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-plugins.dir/plugins/ua_nodestore_ziptree.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-plugins.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-plugins.dir\\plugins\\ua_nodestore_hashmap.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\plugins\\ua_nodestore_hashmap.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/plugins/ua_nodestore_hashmap.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-plugins.dir/plugins/ua_nodestore_hashmap.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-plugins.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-plugins.dir\\plugins\\ua_config_default.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\plugins\\ua_config_default.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/plugins/ua_config_default.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-plugins.dir/plugins/ua_config_default.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-plugins.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-plugins.dir\\plugins\\crypto\\ua_pki_none.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\plugins\\crypto\\ua_pki_none.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/plugins/crypto/ua_pki_none.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-plugins.dir/plugins/crypto/ua_pki_none.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-plugins.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-plugins.dir\\plugins\\crypto\\ua_securitypolicy_none.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\plugins\\crypto\\ua_securitypolicy_none.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/plugins/crypto/ua_securitypolicy_none.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-plugins.dir/plugins/crypto/ua_securitypolicy_none.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-plugins.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-plugins.dir\\arch\\win32\\ua_clock.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\arch\\win32\\ua_clock.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/arch/win32/ua_clock.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-plugins.dir/arch/win32/ua_clock.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-plugins.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-plugins.dir\\arch\\win32\\ua_architecture_functions.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\arch\\win32\\ua_architecture_functions.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/arch/win32/ua_architecture_functions.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-plugins.dir/arch/win32/ua_architecture_functions.c.obj"
+},
+{
+  "directory": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build/deps/open62541pp/3rdparty/open62541",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUA_ARCHITECTURE_WIN32 -DUA_DYNAMIC_LINKING_EXPORT @CMakeFiles/open62541-plugins.dir/includes_C.rsp  -std=c99 -pipe -Wall -Wextra -Wpedantic -Werror -Wno-static-in-inline -Wno-overlength-strings -Wno-unused-parameter -Wc++-compat -Wformat -Wformat-security -Wformat-nonliteral -Wmissing-prototypes -Wstrict-prototypes -Wredundant-decls -Wuninitialized -Winit-self -Wcast-qual -Wstrict-overflow -Wnested-externs -Wmultichar -Wundef -fno-strict-aliasing -fexceptions -g -o CMakeFiles\\open62541-plugins.dir\\arch\\network_tcp.c.obj -c C:\\Users\\fjgar\\OneDrive\\Documents\\C++\\opc-ua-server\\deps\\open62541pp\\3rdparty\\open62541\\arch\\network_tcp.c",
+  "file": "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/deps/open62541pp/3rdparty/open62541/arch/network_tcp.c",
+  "output": "deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-plugins.dir/arch/network_tcp.c.obj"
+}
+]

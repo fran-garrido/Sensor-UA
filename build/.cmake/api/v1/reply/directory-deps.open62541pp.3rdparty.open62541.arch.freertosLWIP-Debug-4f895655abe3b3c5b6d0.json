@@ -1,0 +1,19 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "deps/open62541pp/3rdparty/open62541/arch/freertosLWIP",
+		"source" : "deps/open62541pp/3rdparty/open62541/arch/freertosLWIP"
+	}
+}

@@ -1,0 +1,441 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "Git::Git::@3dab28c1c6b26473d758",
+					"jsonFile" : "target-Git__Git-Debug-c5facd09216e7f974f65.json",
+					"name" : "Git::Git",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Python3::Interpreter::@3dab28c1c6b26473d758",
+					"jsonFile" : "target-Python3__Interpreter-Debug-eed25d97edb57372b2a3.json",
+					"name" : "Python3::Interpreter",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Threads::Threads::@e1d353c40e795a1e7b4c",
+					"jsonFile" : "target-Threads__Threads-Debug-1e68d004f0c4a1f8d340.json",
+					"name" : "Threads::Threads",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "open62541pp_project_options::@e1d353c40e795a1e7b4c",
+					"jsonFile" : "target-open62541pp_project_options-Debug-ee0bc0daf3c232730374.json",
+					"name" : "open62541pp_project_options",
+					"projectIndex" : 1
+				}
+			],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e8748875e18014142a5d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						2,
+						3
+					],
+					"build" : "deps/open62541pp",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-deps.open62541pp-Debug-99292042dfbc395751de.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "deps/open62541pp",
+					"targetIndexes" : 
+					[
+						15
+					]
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1
+					],
+					"build" : "deps/open62541pp/3rdparty/open62541",
+					"childIndexes" : 
+					[
+						3,
+						10,
+						11
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-deps.open62541pp.3rdparty.open62541-Debug-b29ac35b64256cbbc4c5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "deps/open62541pp/3rdparty/open62541",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				},
+				{
+					"build" : "deps/open62541pp/3rdparty/open62541/arch",
+					"childIndexes" : 
+					[
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"jsonFile" : "directory-deps.open62541pp.3rdparty.open62541.arch-Debug-91db6c2ffe2cbe4b50e6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "deps/open62541pp/3rdparty/open62541/arch"
+				},
+				{
+					"build" : "deps/open62541pp/3rdparty/open62541/arch/posix",
+					"jsonFile" : "directory-deps.open62541pp.3rdparty.open62541.arch.posix-Debug-a89a8cfd316caef7a737.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 2,
+					"source" : "deps/open62541pp/3rdparty/open62541/arch/posix"
+				},
+				{
+					"build" : "deps/open62541pp/3rdparty/open62541/arch/win32",
+					"jsonFile" : "directory-deps.open62541pp.3rdparty.open62541.arch.win32-Debug-0a0148b25ba58e7f4e60.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 2,
+					"source" : "deps/open62541pp/3rdparty/open62541/arch/win32"
+				},
+				{
+					"build" : "deps/open62541pp/3rdparty/open62541/arch/freertosLWIP",
+					"jsonFile" : "directory-deps.open62541pp.3rdparty.open62541.arch.freertosLWIP-Debug-4f895655abe3b3c5b6d0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 2,
+					"source" : "deps/open62541pp/3rdparty/open62541/arch/freertosLWIP"
+				},
+				{
+					"build" : "deps/open62541pp/3rdparty/open62541/arch/vxworks",
+					"jsonFile" : "directory-deps.open62541pp.3rdparty.open62541.arch.vxworks-Debug-c79f1134a53eaf62f6f2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 2,
+					"source" : "deps/open62541pp/3rdparty/open62541/arch/vxworks"
+				},
+				{
+					"build" : "deps/open62541pp/3rdparty/open62541/arch/eCos",
+					"jsonFile" : "directory-deps.open62541pp.3rdparty.open62541.arch.eCos-Debug-2b82e584cd997aa91e01.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 2,
+					"source" : "deps/open62541pp/3rdparty/open62541/arch/eCos"
+				},
+				{
+					"build" : "deps/open62541pp/3rdparty/open62541/arch/wec7",
+					"jsonFile" : "directory-deps.open62541pp.3rdparty.open62541.arch.wec7-Debug-d648ed4cff0a79403f18.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 2,
+					"source" : "deps/open62541pp/3rdparty/open62541/arch/wec7"
+				},
+				{
+					"build" : "deps/open62541pp/3rdparty/open62541/doc",
+					"jsonFile" : "directory-deps.open62541pp.3rdparty.open62541.doc-Debug-a28dc1f543b0bc404e77.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "deps/open62541pp/3rdparty/open62541/doc",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "deps/open62541pp/3rdparty/open62541/tools/packaging",
+					"jsonFile" : "directory-deps.open62541pp.3rdparty.open62541.tools.packaging-Debug-5ca17e456aff6d4aba60.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "deps/open62541pp/3rdparty/open62541/tools/packaging"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SensorOPC",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						2,
+						3
+					],
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "open62541pp",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						15
+					]
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1
+					],
+					"directoryIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					],
+					"name" : "open62541",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SensorOPC::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SensorOPC-Debug-2405c2814cc3abf32b3a.json",
+					"name" : "SensorOPC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "clang-tidy::@3dab28c1c6b26473d758",
+					"jsonFile" : "target-clang-tidy-Debug-17f4888cd6f5a3c660b8.json",
+					"name" : "clang-tidy",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "cpplint::@3dab28c1c6b26473d758",
+					"jsonFile" : "target-cpplint-Debug-0c3bf9a642275d4f68c4.json",
+					"name" : "cpplint",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "doc::@96a5fb880752030ad431",
+					"jsonFile" : "target-doc-Debug-77dfac3d85a8649568c8.json",
+					"name" : "doc",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "doc_latex::@96a5fb880752030ad431",
+					"jsonFile" : "target-doc_latex-Debug-c0d65201b1af2397cf90.json",
+					"name" : "doc_latex",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "doc_pdf::@96a5fb880752030ad431",
+					"jsonFile" : "target-doc_pdf-Debug-7a0afdf6b26fce5d5df4.json",
+					"name" : "doc_pdf",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "open62541::@3dab28c1c6b26473d758",
+					"jsonFile" : "target-open62541-Debug-9722b2dad75282b6937f.json",
+					"name" : "open62541",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "open62541-code-generation::@3dab28c1c6b26473d758",
+					"jsonFile" : "target-open62541-code-generation-Debug-793c300d50bb0ca0efc6.json",
+					"name" : "open62541-code-generation",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "open62541-generator-ids-ns0::@3dab28c1c6b26473d758",
+					"jsonFile" : "target-open62541-generator-ids-ns0-Debug-79af23400020c2274dc4.json",
+					"name" : "open62541-generator-ids-ns0",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "open62541-generator-namespace::@3dab28c1c6b26473d758",
+					"jsonFile" : "target-open62541-generator-namespace-Debug-3addf5e6caf1d3d82385.json",
+					"name" : "open62541-generator-namespace",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "open62541-generator-statuscode::@3dab28c1c6b26473d758",
+					"jsonFile" : "target-open62541-generator-statuscode-Debug-cb2bb4ae5f52e97d5a16.json",
+					"name" : "open62541-generator-statuscode",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "open62541-generator-transport::@3dab28c1c6b26473d758",
+					"jsonFile" : "target-open62541-generator-transport-Debug-fa7f09ccd617c64d0e18.json",
+					"name" : "open62541-generator-transport",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "open62541-generator-types::@3dab28c1c6b26473d758",
+					"jsonFile" : "target-open62541-generator-types-Debug-fbb954f5669127e2e943.json",
+					"name" : "open62541-generator-types",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "open62541-object::@3dab28c1c6b26473d758",
+					"jsonFile" : "target-open62541-object-Debug-5a4c155a1f0472a46169.json",
+					"name" : "open62541-object",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "open62541-plugins::@3dab28c1c6b26473d758",
+					"jsonFile" : "target-open62541-plugins-Debug-b2fd07fffc28e6f289b5.json",
+					"name" : "open62541-plugins",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "open62541pp::@e1d353c40e795a1e7b4c",
+					"jsonFile" : "target-open62541pp-Debug-cff7555e02f382f89bb9.json",
+					"name" : "open62541pp",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server/build",
+		"source" : "C:/Users/fjgar/OneDrive/Documents/C++/opc-ua-server"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	}
+}

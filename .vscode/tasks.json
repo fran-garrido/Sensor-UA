@@ -1,0 +1,44 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Release Static (Sensor OPC)",
+            "type": "shell",
+            "command": "cmake",
+            "args": [
+                "--build", "build",
+                "--config", "Release",
+                "--clean-first"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": true
+            },
+            "problemMatcher": "$gcc",
+            "detail": "Compila Sensor OPC.exe en build/Release"
+        },
+        {
+            "label": "Build Installer (NSIS)",
+            "type": "shell",
+            "command": "powershell",
+            "args": [
+                "-Command",
+                "cd build; cpack -G NSIS"
+            ],
+            "dependsOn": "Build Release Static (Sensor OPC)",
+            "group": "build",
+            "presentation": {
+                "echo": true,
+                "reveal": "always"
+            },
+            "detail": "Genera instalador profesional"
+        }
+    ]
+}

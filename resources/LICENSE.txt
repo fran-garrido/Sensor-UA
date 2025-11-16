@@ -1,0 +1,2 @@
+OPC UA Sensors Server - CIP Virgen del Camino
+Copyright (c) 2026 Fran Garrido. All rights reserved.

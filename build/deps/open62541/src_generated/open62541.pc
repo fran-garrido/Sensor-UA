@@ -1,0 +1,9 @@
+libdir=C:/Program Files (x86)/OPCUASimulationServer/lib
+sharedlibdir=${libdir}
+includedir=C:/Program Files (x86)/OPCUASimulationServer/include
+
+Name: open62541
+Description: open62541 is an open source C (C99) implementation of OPC UA
+Version: 1.4.4-undefined
+Libs: -L${libdir} -lopen62541 
+Cflags: -I${includedir} 

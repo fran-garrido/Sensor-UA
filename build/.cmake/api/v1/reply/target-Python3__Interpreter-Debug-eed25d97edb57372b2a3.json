@@ -1,0 +1,74 @@
+{
+	"abstract" : true,
+	"artifacts" : 
+	[
+		{
+			"path" : "C:/msys64/ucrt64/bin/python3.exe"
+		}
+	],
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"include",
+			"find_package"
+		],
+		"files" : 
+		[
+			"deps/open62541pp/3rdparty/open62541/tools/cmake/FindPython/Support.cmake",
+			"deps/open62541pp/3rdparty/open62541/tools/cmake/FindPython3.cmake",
+			"deps/open62541pp/3rdparty/open62541/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 138,
+				"parent" : 2
+			},
+			{
+				"file" : 0,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 804,
+				"parent" : 4
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"id" : "Python3::Interpreter::@3dab28c1c6b26473d758",
+	"imported" : true,
+	"local" : true,
+	"name" : "Python3::Interpreter",
+	"nameOnDisk" : "python3.exe",
+	"paths" : 
+	{
+		"build" : "deps/open62541pp/3rdparty/open62541",
+		"source" : "deps/open62541pp/3rdparty/open62541"
+	},
+	"sources" : [],
+	"type" : "EXECUTABLE"
+}

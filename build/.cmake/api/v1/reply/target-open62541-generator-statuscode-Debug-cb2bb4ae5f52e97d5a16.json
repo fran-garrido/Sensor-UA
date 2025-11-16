@@ -1,0 +1,89 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"deps/open62541pp/3rdparty/open62541/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1311,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"folder" : 
+	{
+		"name" : "open62541/generators"
+	},
+	"id" : "open62541-generator-statuscode::@3dab28c1c6b26473d758",
+	"name" : "open62541-generator-statuscode",
+	"paths" : 
+	{
+		"build" : "deps/open62541pp/3rdparty/open62541",
+		"source" : "deps/open62541pp/3rdparty/open62541"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-generator-statuscode",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/CMakeFiles/open62541-generator-statuscode.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/src_generated/open62541/nodeids.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/deps/open62541pp/3rdparty/open62541/src_generated/open62541/statuscodes.h.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}
